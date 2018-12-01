@@ -1,5 +1,5 @@
 <?php
-$searchStr = 'This is a test string.'
+$searchStr = 'This is a test string.';
 // Without Null Character
   //$toReplace = "test/e";
 // The upper won't work
