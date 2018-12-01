@@ -6,7 +6,7 @@ unzip phpMyAdmin-4.3.0-english.zip
 
 sudo mv phpMyAdmin-4.3.0-english /usr/share/phpmyadmin
 
-mkdir /usr/share/phpmyadmin/tmp
+sudo mkdir /usr/share/phpmyadmin/tmp
 
-chown www-data /usr/share/phpmyadmin/tmp
+sudo chown www-data /usr/share/phpmyadmin/tmp
 
