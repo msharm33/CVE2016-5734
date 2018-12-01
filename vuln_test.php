@@ -1,6 +1,6 @@
 <?php
 $searchStr = 'This is a test string.';
-$toReplace = $_GET['toreplace'];
-$replaceWith = $_GET['replacewith'];
+$toReplace = "test";
+$replaceWith = "ls";
 echo preg_replace($toReplace, $replaceWith, $searchStr);
 ?>
