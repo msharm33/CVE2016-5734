@@ -10,3 +10,6 @@ sudo mkdir /usr/share/phpmyadmin/tmp
 
 sudo chown www-data /usr/share/phpmyadmin/tmp
 
+sudo cp /usr/share/phpmyadmin/config.sample.inc.php  /usr/share/phpmyadmin/config.inc.php
+
+
