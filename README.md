@@ -1,7 +1,7 @@
 # CVE2016-5734
 
-## Security and Privacy in Computing
-## Group Project
+Security and Privacy in Computing
+Group Project
 
 ## Introduction
 
