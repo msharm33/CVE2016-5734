@@ -1,7 +1,6 @@
 # CVE2016-5734
 
-Security and Privacy in Computing
-Group Project
+EN.601.643 - Security and Privacy in Computing : Group Project
 
 ## Introduction
 
@@ -13,7 +12,7 @@ Run install_phpmyadmin.sh with root privileges and vulnerable version of phpMyAd
 
 ## Procedure for Exploiting
 
-Run the sql commands in initial_sql.sql.
+Run the SQL commands in initial_sql.sql.
 
 Then run exploit*.py to execute the exploit.
 
