@@ -1,3 +1,5 @@
+# noinspection SqlNoDataSourceInspectionForFile
+
 CREATE DATABASE `vuln`;
 
 CREATE TABLE `vuln`.`vuln_table` (
