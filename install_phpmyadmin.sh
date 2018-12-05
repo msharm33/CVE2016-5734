@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 sudo rm -rf /usr/share/phpmyadmin
 
 sudo wget https://files.phpmyadmin.net/phpMyAdmin/4.3.0/phpMyAdmin-4.3.0-english.zip --no-check-certificate
